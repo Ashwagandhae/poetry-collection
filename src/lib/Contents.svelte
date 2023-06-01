@@ -86,9 +86,10 @@
 		padding-top: 3.5rem;
 		transition: background 0.5s;
 	}
-	@media (max-width: 600px) {
+	@media (max-width: 800px) {
 		.toggle {
 			width: 100vw;
+			background: var(--back);
 		}
 		.top {
 			width: 100vw;
