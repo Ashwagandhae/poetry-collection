@@ -1,0 +1,20 @@
+{
+	"title": "Yellow line",
+	"form": "tanka",
+	"theme": {
+		"text": "hsl(30, 80%, 60%)",
+		"back": "hsl(0, 60%, 10%)"
+	}
+}
+##
+central centipede
+scraped, grated by hateful slate
+miserable screech
+remora retains the reign
+sustains the mundane chain
+##
+metal centipede
+scrubbed by merciless brimstone
+miserable screech
+remora cannot condone
+anger at random postpone

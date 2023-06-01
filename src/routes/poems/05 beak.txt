@@ -1,0 +1,60 @@
+{
+	"title": "Chicken Consumption",
+	"form": "abecedarian",
+	"theme": {
+		"text": "hsl(150, 50%, 20%)",
+		"back": "hsl(100, 60%, 80%)"
+	}
+}
+##
+Another plant plucked,
+broken off its stem,
+cut from life force,
+dragged and torn apart: 
+elegant angle of 
+folding ebony scythes
+grappling paper.
+Heavy edges engraving:
+incisors pressing the
+juice from crispy
+kicking canopy to 
+lumpy doughy pulp. 
+Metal boats afloat:
+on opposite sides of the 
+pool, drowning through
+quiet controlled waves to 
+restrain the small soft 
+sheet. Moving mountains:
+tectonic plates shifting 
+under closing cliffs, a
+valley falling smaller. 
+Weighty angle brackets of
+XML files, two triangles
+yellowing their horizons, 
+zig-zags converging closed.
+##
+Another leaf plucked,
+broken off of its stem,
+cut off from life source,
+dragged and torn away: 
+elegant motions of a
+folding ebony scythe
+grappling the paper.
+Heavy edges engraving,
+incisors pressing the
+juice from crispy
+kicking canopy to 
+lumpy doughy pulp. 
+Metal boats afloat
+on other sides of the 
+pool, sinking through
+quiet controlled waves to 
+restrain the small soft 
+sheet. Moving mountains;
+tectonic plates shifting 
+under the closing cliffs, a
+valley growing smaller. 
+Weighted angle brackets of
+XML standards, two triangles
+yellowing their horizons, 
+zig-zags converging closed.

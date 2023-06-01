@@ -1,0 +1,26 @@
+{
+	"title": "Reluctant Triolet",
+	"form": "triolet",
+	"theme": {
+		"text": "hsl(20, 50%, 15%)",
+		"back": "hsl(30, 100%, 65%)"
+	}
+}
+##
+It was the golden season,
+fallen leave, duck and squash
+roasting. Salt, I won’t om-
+it, was the golden season-
+ing that gave tastes o’ bacon.
+But alas! A grand deceit 
+it was! The Golden Season…
+fallen? “Leave!” “DUCK!”       <i>and *squash*</i>
+##
+It was the golden season,
+fallen leave, duck and squash
+cooking. Salt, I won’t om-
+it, was the golden season-
+ing that gave tastes of bacon.
+But alas! A grand dece-
+it was! The golden season…
+fallen? “LEAVE!” “DUCK!!!” <i>and *squash*</i>

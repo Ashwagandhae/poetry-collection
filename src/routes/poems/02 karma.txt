@@ -1,0 +1,23 @@
+{
+	"title": "Juggler's Struggle",
+	"note": "after Karma Juggler by Do Ho Suh, from 2004: Six by Four",
+	"form": "ekphrastic",
+	"align": "center",
+	"theme": {
+		"text": "hsl(359, 81%, 57%)",
+		"back": "hsl(0, 0%, 94%)"
+	},
+	"image": "karma.jpeg"
+}
+##
+rose’s bloom, flower cocoon, flattened legume: the end of a broom
+octopus suction cups, homologous chromatin crust
+crushed crystals of krill, crab, and karma
+silky slice of shrub stump
+juggler’s struggle
+##
+roses bloom, flower cocoon, flattened legume, orange plume: the end of a broom
+octopus suction cups, homologous chromatin cluster
+crushing crystals of krill, crab, and karma
+stunted oak shrub offshoot
+juggler’s struggles

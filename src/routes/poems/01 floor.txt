@@ -1,0 +1,16 @@
+{
+	"title": "Floor",
+	"form": "haiku",
+	"theme": {
+		"text": "hsl(10, 50%, 30%)",
+		"back": "hsl(25, 60%, 80%)"
+	}
+}
+##
+frozen woven waves,
+brown plumes preserved evermore,
+rootless wormwood floor.
+##
+frozen woven waves
+brown plumes preserved evermore
+murdered timber core

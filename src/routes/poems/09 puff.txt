@@ -1,0 +1,17 @@
+{
+  "title": "Pufferfish",
+  "form": "haiku",
+  "note": "Written during the biology final.",
+  "theme": {
+		"text": "hsl(40, 80%, 90%)",
+		"back": "hsl(195, 82%, 30%)"
+	}
+}
+##
+Hurtful urchin-spikes,
+Porcupine pikes hide shy eyes:
+Pufferfish struggle. 
+##
+Sharpened urchin spikes
+Porcupine pikes hide kind eyes
+Pufferfish's struggle

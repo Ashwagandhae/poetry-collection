@@ -1,0 +1,6 @@
+{
+  "title": "About the author",
+	"meta": true
+}
+##
+Julian Bauer, a high school student at the College Preparatory School, currently lives in San Francisco. Bauer first wrote poetry in middle school, but didn't continue creating poems before the Farthest Horizons seminar in his junior year. Bauer wants to thank his teacher Professor Mosley for introducing him to poetry in such a thoughtful way, helping him develop his poetic skills and giving him the confidence to share with others. Bauer also expresses gratitude to his classmates for their insightful feedback and encouragement throughout the poetry seminar.

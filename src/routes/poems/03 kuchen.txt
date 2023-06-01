@@ -1,0 +1,28 @@
+{
+	"title": "Kuchen",
+	"theme": {
+		"text": "hsl(340, 80%, 30%)",
+		"back": "hsl(45, 60%, 80%)"
+	}
+}
+##
+1. Break butter blocks in the bowl
+2. Layer the cake tin in thin crumb-skin
+3. Combine crushed sugarcane crystals
+4. Unveil eggshell’s oval reservoir
+5. Throw aroma formula thoroughly
+6. Empower the powdered flower
+7. Mow eggflow to snow dough
+8. Mold the mashed marble mache
+9. Shove stuff in stove with glove
+a cake? already?
+##
+break butter blocks in the bowl—
+layer the cake tin in thin crumb-skin—
+combine crushed crystals of sugarcane—
+unveil the eggshell’s oval reservoir—
+thourougly throw around aroma formula—
+empower the powdered flower—
+mow eggflow to snow dough—
+mold the mashed marble mache—
+bake

@@ -1,0 +1,62 @@
+@import '@fontsource/eb-garamond';
+@import '@fontsource/martel';
+
+:root {
+	--font-body: 'EB Garamond', sans-serif;
+	--font-title: 'Martel', sans-serif;
+	--text: black;
+	--back: white;
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--text: hsl(0, 0%, 80%);
+		--back: hsl(0, 0%, 10%);
+	}
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	background-attachment: fixed;
+	font-family: var(--font-body);
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: var(--font-title);
+	color: var(--text);
+	transition: color 0.5s;
+}
+
+p,
+li,
+a,
+button,
+input {
+	font-family: var(--font-body);
+	font-size: 1.25rem;
+	line-height: 1.5;
+	color: var(--text);
+	transition: color 0.5s;
+}
+
+button:focus:not(:focus-visible) {
+	outline: none;
+}
+
+@media (min-width: 720px) {
+	h1 {
+		font-size: 2.4rem;
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Instructions",
+	"meta": true
+}
+##
+1. The Table of Contents is in the top left corner (move your mouse to see it).
+2. Drafts are on the right of a poem's title.
+##
+You found the show draft button! Click again to go back. 
