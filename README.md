@@ -1,6 +1,6 @@
 # Poetry collection
 
-A poetry collection website for the Farthest Horizons: Craft of Poetic forms poetry seminar.
+A poetry collection website for the Farthest Horizons: Craft of Poetic forms poetry seminar. See it [here](https://ashwagandhae.github.io/poetry-collection/).
 
 Julian Bauer's linguistic flowers grow to towers in his newest shower of poetic power. Bauer documents his exciting encounters with enthralling objects like flooring materials, writing utensils, rapid transport, and baked goods. While Bauer sometimes connects these exhilarating artifacts to broader themes like Nature and melancholy, he also commonly engages in simple poetic descriptions that shine light on the intricacies of these fabulous fragments. In his poetry, Bauer centers the sound of his poems, focusing on pairing, tripleting, and even quadrupleting phonetic harmonies. This constant contest for consonant consonants fascinates Bauer, motivating his exploration of interesting imagery and the interplay of playful wordplay.
 
