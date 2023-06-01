@@ -3,8 +3,8 @@
   "form": "haiku",
   "note": "Written during the biology final.",
   "theme": {
-		"text": "hsl(40, 80%, 90%)",
-		"back": "hsl(195, 82%, 30%)"
+		"text": "hsl(20, 50%, 40%)",
+		"back": "hsl(30, 30%, 80%)"
 	}
 }
 ##
