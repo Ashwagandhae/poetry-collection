@@ -39,6 +39,18 @@ h6 {
 	transition: color 0.5s;
 }
 
+.big h1 {
+	font-size: 4rem;
+}
+
+.big h2 {
+	font-size: 2rem;
+}
+
+.big p {
+	font-size: 1.5rem;
+}
+
 p,
 li,
 a,

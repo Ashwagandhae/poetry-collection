@@ -11,6 +11,7 @@
 	export let align: 'left' | 'right' | 'center' = 'left';
 	export let theme: Theme | null = null;
 	export let image: string | null = null;
+	export let big: boolean = false;
 
 	export let isCover: boolean = false;
 
@@ -43,7 +44,7 @@
 </script>
 
 <svelte:window />
-<div class="poem" class:hidden bind:this={element} class:isCover>
+<div class="poem" class:hidden bind:this={element} class:isCover class:big>
 	{#if isCover}
 		<Cover />
 	{:else}

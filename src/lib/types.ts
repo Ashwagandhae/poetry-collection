@@ -4,6 +4,7 @@ export type Poem = {
 	content: string;
 	draft: string;
 	slug: string;
+	big?: boolean;
 	align?: 'center' | 'left' | 'right';
 	form?: string;
 	theme?: Theme;
